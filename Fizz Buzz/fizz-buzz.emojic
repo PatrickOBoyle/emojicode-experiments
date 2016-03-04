@@ -10,38 +10,37 @@
 🐇 🐼 🍇
     👴 main function
     🐇🐖 🏁 ➡️ 🚂 🍇
+        👴 declare & assign 1 with a value of 1
+        🍮 i 1
 
-    👴 declare & assign 1 with a value of 1
-    🍮 i 1
+        👴 while i < 100
+        🔁 ⬅️ i 100 🍇
+            👴 if (i % 15) == 0
+            🍊 😛 0 🚮 i 15 🍇
+                😀 🔤FizzBuzz🔤
+            🍉
 
-    👴 while i < 100
-    🔁 ⬅️ i 100 🍇
-        👴 if (i % 15) == 0
-        🍊 😛 0 🚮 i 15 🍇
-            😀 🔤FizzBuzz🔤
+            👴 else if (i % 3) == 0
+            🍋 😛 0 🚮 i 3 🍇
+                😀 🔤Fizz🔤
+            🍉
+
+            👴 else if (i % 5) == 0
+            🍋 😛 0 🚮 i 5 🍇
+                😀 🔤Buzz🔤
+            🍉
+
+            👴 else, print the number!
+            🍓 🍇
+                👴 Convert i from an integer (base 10) to a string, print the result
+                😀 🔷🔡🚂 i 10
+            🍉
+
+            👴 increment i
+            🍫 i
         🍉
 
-        👴 else if (i % 3) == 0
-        🍋 😛 0 🚮 i 3 🍇
-            😀 🔤Fizz🔤
-        🍉
-
-        👴 else if (i % 5) == 0
-        🍋 😛 0 🚮 i 5 🍇
-            😀 🔤Buzz🔤
-        🍉
-
-        👴 else, print the number!
-        🍓 🍇
-            👴 Convert i from an integer (base 10) to a string, print the result
-            😀 🔷🔡🚂 i 10
-        🍉
-
-        👴 increment i
-        🍫 i
-    🍉
-
-    👴 return 0 to terminate program
-    🍎 0
-  🍉
+        👴 return 0 to terminate program
+        🍎 0
+      🍉
 🍉
