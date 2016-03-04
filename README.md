@@ -1,4 +1,4 @@
-# emojicode-experiments
+# Emojicode Experiments
 Experiments with Emojicode ( http://www.emojicode.org )
 
 Repo for playing around with Emojicode, figuring it out and random tinkering.
